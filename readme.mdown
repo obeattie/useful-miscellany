@@ -1,0 +1,6 @@
+**At the moment, I'm adding stuff gradually as I find it. For now, there probably isn't a lot that will interest you. However, feel free to dig around. I'll try to figure out some sort of logical structure for this as I go along…**
+
+# What is this?
+* *This is* A dumping ground for all sorts of snippets of code I have lying around. Some of it, I hope, people will find useful.
+* *This is* completely free code. Feel free to do whatever you like to any of it. Go nuts. If you're going to make modifications you think others might find useful, then go ahead and fork this repo.
+* *This is not* code I will maintain just for the sake of maintaining it. If it breaks, and I need it again for something, I *will* fix it. Otherwise, fix it yourself, and let me have a patch if you would be so kind :)
